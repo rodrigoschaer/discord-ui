@@ -24,5 +24,3 @@ export const Separator = styled.div`
 
   margin-bottom: 8px;
 `;
-
-export const ServerButton = styled.div``;
